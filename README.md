@@ -71,7 +71,7 @@ Summary statistics are included along with a couple of linear models for race an
 Two notebooks comprise the projects. 
 
 - **[States Notebook](https://github.com/UW-GDA/superfund-gentrification/blob/main/Notebooks/States.ipynb):** This notebook includes nationwide and west coast geospatial anlysis and regression analysis with fixed effects and socioeconomic data. 
-- **[Seattle Notebook](https://github.com/UW-GDA/superfund-gentrification/blob/main/Notebooks/Seattle_Socio.ipynb):** This notebook includes Seattle-specific geospatial analysis with fixed effects and socioeconomic data. 
+- **[Seattle Notebook](https://github.com/ashliblow/superfundshifts/blob/main/Notebooks/Seattle_Socio.ipynb):** This notebook includes Seattle-specific geospatial analysis with fixed effects and socioeconomic data. 
 
 ### Conclusion
 More analysis is needed to see definitive relationships between Superfund site cleanups and neighborhood composition shifts. But takeaways from this phase of this project includes the following. 
