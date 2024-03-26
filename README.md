@@ -80,7 +80,7 @@ More analysis is needed to see definitive relationships between Superfund site c
 
 - **Regionally (West Coast)** Hispanic-Latino population has a significant decrease in Census tracts with cleaned up Superfund sites on the west coast. 
 
-- **Citywide (Seattle):** Seattle has a wealthier population growing across the city and in South Park, the neighborhood with a Superfund site. 
+- **Citywide (Seattle):** Seattle has a wealthier population growing across the city and in South Park, the neighborhood with a Superfund site. Causation can not be tied to Superfund site influence from this mapping. 
 
 ### Future Direction 
 Next steps for further anaylsis could inclde the following. 
